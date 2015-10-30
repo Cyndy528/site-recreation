@@ -1,13 +1,18 @@
 /* Add custom styles here */
 
 .nav { 
-	text-align: center;
-	margin: 20px;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 10px; 
 }
 
-.img {
-	text-align: center;
-	height: 120px; 
-	width: 100px;
+#logo {
+	width: 80%;
+    margin: 0 auto;
+
 }
+#people-logo {
+	text-align: center;
+}
+
 
